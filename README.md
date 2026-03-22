@@ -6,5 +6,5 @@ Getting into systems programming and open source —
 particularly tools that give users actual control 
 over their own data.
 
-**Languages:** Python · C · JavaScript  
+**Languages:** Python · C/C++ · JavaScript  
 **Into:** open source · privacy tools · data systems
