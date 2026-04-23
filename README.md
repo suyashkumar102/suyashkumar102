@@ -1,10 +1,9 @@
 ## Suyash Kumar
 
-CS student. I build things and break things.
+CS student. I build things and break them.
 
-Getting into systems programming and open source — 
-particularly tools that give users actual control 
-over their own data.
+Interested in systems programming, open source, and research-driven data systems —
+especially tools that give users real control over their data.
 
-**Languages:** Python · C/C++ · D · JavaScript  
-**Into:** open source · privacy tools · data systems
+**Languages:** Python · C/C++ · D · JavaScript
+**Skills:** systems · data systems · distributed systems · semantic modeling · developer tooling
